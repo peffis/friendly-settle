@@ -36,8 +36,7 @@ SETTING UP MYSQL DB
 
 2) Create a mysql user "settle" with password and grant full access to 
 'settle' db to this user (use some admin tool or "grant all on
-settle.* to 'list_user'@'%' identified by 'your password';" in mysql
-- whatever you prefer)
+settle.* to 'list_user'@'%' identified by 'your password';" in mysql, whatever you prefer)
 
 3) Edit config.php so that the variable MYSQL_PWD matches whatever
 password you used in step 2

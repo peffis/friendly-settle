@@ -4,7 +4,8 @@ friendly-settle
 A tool for figuring out who pays what to whom after a series of
 transactions among members of a group - such as after a group trip or
 similar. Some say it is very Swedish to be this peculiar about details
-when it comes to this. Perhaps it is a cultural thing, who knows? 
+when it comes to this. Perhaps it is a cultural thing, who knows? A running 
+example of this software can be found at [http://hellkvist.org/gruppresan/](hellkvist.org)
 
 SCREEN SHOT
 -----------
